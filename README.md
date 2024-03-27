@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 27/03/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -142,7 +142,7 @@ bank.html
         </p>
    </body>
 </html>
-
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-03-27 135401.png>)
